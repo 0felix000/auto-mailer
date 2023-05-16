@@ -1,0 +1,7 @@
+{
+    "e-mail":"",
+    "password":"",
+    "subject":"",
+    "smtp_server":"mail.gmx.com",
+    "smtp_port":"587"
+}
